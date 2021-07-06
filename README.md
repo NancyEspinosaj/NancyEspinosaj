@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋💃, I'm Nancy Espinosa</h1>
-pp.jpg
-<h3 align="center">A passionate frontend developer from Colombia</h3> 
+<img src = "https://github.com/NancyEspinosaj/NancyEspinosaj/blob/18e4cc0ebd6a1787c43ebbd35fdb1cb0d264b8d7/Captura%20de%20pantalla%202021-07-06%20005127.png">
+<h3 align="center">A passionate developer from Colombia</h3> 
 
 - 🌱 I’m currently learning **Data Science, Data analytics and Development**
 
